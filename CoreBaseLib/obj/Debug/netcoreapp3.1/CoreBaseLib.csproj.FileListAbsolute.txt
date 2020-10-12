@@ -1,0 +1,9 @@
+D:\2.Development\1.TrackLogAPI\CoreBase-master\CoreBase-master\CoreBaseLib\bin\Debug\netcoreapp3.1\CoreBaseLib.deps.json
+D:\2.Development\1.TrackLogAPI\CoreBase-master\CoreBase-master\CoreBaseLib\bin\Debug\netcoreapp3.1\CoreBaseLib.dll
+D:\2.Development\1.TrackLogAPI\CoreBase-master\CoreBase-master\CoreBaseLib\bin\Debug\netcoreapp3.1\CoreBaseLib.pdb
+D:\2.Development\1.TrackLogAPI\CoreBase-master\CoreBase-master\CoreBaseLib\obj\Debug\netcoreapp3.1\CoreBaseLib.AssemblyInfoInputs.cache
+D:\2.Development\1.TrackLogAPI\CoreBase-master\CoreBase-master\CoreBaseLib\obj\Debug\netcoreapp3.1\CoreBaseLib.AssemblyInfo.cs
+D:\2.Development\1.TrackLogAPI\CoreBase-master\CoreBase-master\CoreBaseLib\obj\Debug\netcoreapp3.1\CoreBaseLib.csproj.CoreCompileInputs.cache
+D:\2.Development\1.TrackLogAPI\CoreBase-master\CoreBase-master\CoreBaseLib\obj\Debug\netcoreapp3.1\CoreBaseLib.dll
+D:\2.Development\1.TrackLogAPI\CoreBase-master\CoreBase-master\CoreBaseLib\obj\Debug\netcoreapp3.1\CoreBaseLib.pdb
+D:\2.Development\1.TrackLogAPI\CoreBase-master\CoreBase-master\CoreBaseLib\obj\Debug\netcoreapp3.1\CoreBaseLib.csprojAssemblyReference.cache
